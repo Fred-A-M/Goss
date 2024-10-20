@@ -17,7 +17,7 @@ Goss is a social media platform where users share voice notes instead of written
 
 ### Demo
 
-<img align="center" src="https://github.com/user-attachments/assets/030dd090-4f4b-48b7-bef7-6d5e9f507a7c" width=450 height=254 title='Goss' /> <br>
+<p align="center"><img src="https://github.com/user-attachments/assets/030dd090-4f4b-48b7-bef7-6d5e9f507a7c" width=450 height=254 title='Goss' /></p> <br>
 
 ### Getting Started
 
